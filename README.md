@@ -23,3 +23,5 @@ Se nos proporcionan una tabla en formato CSV que contienen los siguientes campos
 ## Patient Detail
 
 ## Consolidated View
+
+# Conclusion
