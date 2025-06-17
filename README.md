@@ -18,7 +18,6 @@ Se nos proporcionan una tabla en formato CSV que contienen los siguientes campos
 
 # Visualizacion de los Datos 
 
+## Monthly View
 
-
-
-
+## Patient Detail
