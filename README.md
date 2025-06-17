@@ -21,3 +21,5 @@ Se nos proporcionan una tabla en formato CSV que contienen los siguientes campos
 ## Monthly View
 
 ## Patient Detail
+
+## Consolidated View
